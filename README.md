@@ -1,6 +1,8 @@
-# NS3: Note-taking app based on Scratch by Serverless Stack (API)
+# NS3-api
 
-This is the API part for NS3, my first serverless full-stack app built on AWS.
+NS3 is short for "Note-taking app based on Scratch by Serverless Stack (API)", following the AWS naming convention 😝 
+NS3 is my first serverless full-stack app built on AWS.
+This is the API part for NS3.
 
 ## Serverless Stack
 > [Serverless Stack](https://serverless-stack.com/) is a completely free resource to help you build full-stack production ready Serverless applications. First, you'll learn how to build a note taking app using Serverless and React on AWS. Then you'll learn the best practices to run your app in production.
