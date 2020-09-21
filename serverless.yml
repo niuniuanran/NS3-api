@@ -1,4 +1,4 @@
-service: notes-app-api
+service: notes-app-2-api
 
 # Create an optimized package for our functions
 package:
@@ -12,7 +12,7 @@ plugins:
 provider:
   name: aws
   runtime: nodejs12.x
-  stage: prod
+  stage: dev
   region: us-east-1
 
   # These environment variables are made available to our functions
